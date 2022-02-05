@@ -1,1 +1,3 @@
-# odin-recipesProject to try out basic HTML and GIT skills
+# odin-recipes
+
+Project to try out basic HTML and GIT skills
